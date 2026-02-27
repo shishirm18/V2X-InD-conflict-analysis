@@ -1,7 +1,7 @@
 # V2X-InD-conflict-analysis
 
 ### Scenario
-* A Vehicle is making a maneuver at the intersection, he's unaware of the existence of the Pedestrian, due to an occlusion by the construction zone
+* A Vehicle is making a maneuver (taking left turn) at the intersection, he's unaware of the existence of the Pedestrian (trying to cross the sidestreet), due to an occlusion by the construction zone
 * Goal is to make the Vehicle be aware of the existence of potential conflict ahead of time to react properly.
 * The Solution is Remote Vehicle/Infrastructure assisted cooperative perception based on sharing intent messages.
 
